@@ -283,7 +283,7 @@ const eliminarProducto = (id) => {
     return productoId !== encontrarProducto;
   });
 
-  //   console.log(encontrarProducto);
+
   productosEnCarrito();
 };
 
